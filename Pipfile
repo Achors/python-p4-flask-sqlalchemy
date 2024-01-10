@@ -13,6 +13,7 @@ importlib-metadata = "6.0.0"
 importlib-resources = "5.10.0"
 pytest = "*"
 alembic = "*"
+sqlalchemy = "*"
 
 [requires]
 python_full_version = "3.10"
